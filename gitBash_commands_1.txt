@@ -1,0 +1,6 @@
+cd
+mkdir
+ls
+touch
+history
+pwd
