@@ -1,4 +1,4 @@
-<center><h2>GITBash - Homework_1</h2></center>
+<h2 align="center">GITBash - Homework_1</h2>
 
    |Task   |     Answer|
 | ---------------------    | ----------------------------|
