@@ -1,4 +1,5 @@
-# GITBash - Homework_1
+<center><h2>GITBash - Homework_1</h1></center>
+
    |Task   |     Answer|
 | ---------------------    | ----------------------------|
 | 1. Подивитися де я |       `pwd`|
