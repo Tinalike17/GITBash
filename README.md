@@ -14,3 +14,4 @@
 | 10. Написати туди що-небудь |     `click on "I" to go to edit mode then write smth like (Prego - You are welcome/Don't mention it)`|
 | 11. Зберегти і вийти|             `click on "Esc" to exit insert mode, then type ":wq" or ":x" to save and exit`|
 | 12. Вийти із папки на рівень вище |  `cd ..`|
+| 12. Перемістити будь-які 2 файла,які були створені, в будь-яку іншу папку |  `mv dr_3/*.json dr_2 - The command moves all files(there are only 2 files) with .json extension to dr_2 (Location before the mv command is dr_git_bash_1 directory)`|
