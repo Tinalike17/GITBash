@@ -14,4 +14,5 @@
 | 10. Написати туди що-небудь |     `click on "I" to go to edit mode then write smth like (Prego - You are welcome/Don't mention it)`|
 | 11. Зберегти і вийти|             `click on "Esc" to exit insert mode, then type ":wq" or ":x" to save and exit`|
 | 12. Вийти із папки на рівень вище |  `cd ..`|
-| 12. Перемістити будь-які 2 файла,які були створені, в будь-яку іншу папку |  `mv dr_3/*.json dr_2 - The command moves all files(there are only 2 files) with .json extension to dr_2 (Location before the mv command is dr_git_bash_1 directory)`|
+| 13. Перемістити будь-які 2 файла, які були створені, в будь-яку іншу папку |  `mv dr_3/*.json dr_2 - The command moves all files(there are only 2 files) with .json extension to dr_2 (Location before the mv command is dr_git_bash_1 directory)`|
+| 14. Скопіювати будь-які 2 файла, які були створені, в будь-яку іншу папку |  `cp dr_3/italian_grammar.txt dr_4   cp dr_3/italian_vocab.txt dr_4` (cp followed by the name of the file you want to copy and the name of the directory to, where you want to copy the file)|
