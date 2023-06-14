@@ -22,3 +22,15 @@
 |18. Вивести кілька останніх рядків із текстового файлу|`tail -n 3 italian_vocab.txt` - Output: `3. Bounasera - Good evening 4. Arriverderci - Goodbye 5. Grazie mille Thanks a lot`|
 |19. переглянути вміст довгого файлу (команда less) вивчіть, як вона працює| `less italian_grammar.txt`|
 |20. вивести дату та час| `date` - Output: `Wed Jun 14 19:50:58 FLEDT 2023`|
+|21. Надіслати http запит на сервер | `curl http://162.55.220.72:5006/terminal-hw-request` - Output: ``` % Total    % Received % Xferd  Average Speed   Time    Time     Turrent
+                                 Dload  Upload   Total   Spent    Lpeed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:100   283  100   283    0     0   3076      0 --:--:-- --:--:-- --: 3109{
+  "Intro": "Hello!! This is your the first response from server",
+  "Tasks": {
+    "Task_1": "Send the next URL in terminal: http://162.55.220.72:et_method?name=(set_your_String)&age=(set_your_number)",
+    "result": [
+      "Your_String",
+      "Your_number"
+    ]
+  }
+}```|
