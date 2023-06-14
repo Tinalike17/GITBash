@@ -24,7 +24,7 @@
 |20. вивести дату та час| `date` - Output: `Wed Jun 14 19:50:58 FLEDT 2023`||
 
 Завдання* 21. Надіслати http запит на сервер `curl http://162.55.220.72:5006/terminal-hw-request` 
-<br>Output: ``` % Total    % Received % Xferd  Average Speed   Time    Time     Turrent
+<br>Output: <code> % Total    % Received % Xferd  Average Speed   Time    Time     Turrent
                                  Dload  Upload   Total   Spent    Lpeed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:100   283  100   283    0     0   3076      0 --:--:-- --:--:-- --: 3109{
   "Intro": "Hello!! This is your the first response from server",
@@ -35,4 +35,4 @@
       "Your_number"
     ]
   }
-}```
+} </code>
