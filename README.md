@@ -16,3 +16,4 @@
 | 12. Вийти із папки на рівень вище |  `cd ..`|
 | 13. Перемістити будь-які 2 файла, які були створені, в будь-яку іншу папку |  `mv dr_3/*.json dr_2 - The command moves all files(there are only 2 files) with .json extension to dr_2 (Location before the mv command is dr_git_bash_1 directory)`|
 | 14. Скопіювати будь-які 2 файла, які були створені, в будь-яку іншу папку |  `cp dr_3/italian_grammar.txt dr_4   cp dr_3/italian_vocab.txt dr_4` (cp followed by the name of the file you want to copy and the name of the directory to, where you want to copy the file)|
+| 15.Знайти файл за іменем |   `find . -name 'e*' ` - Вивід: `./dr_2/english_vocab.json   ./dr_3/english.txt` (This command searches for the file which name starts with an e, and (it searches for the file in all directories - .) ) |
