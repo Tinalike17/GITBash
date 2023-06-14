@@ -20,3 +20,5 @@
 | 16. Переглянути вміст у реальному часі (команда grep) вивчіть, як вона працює.| `tail -f italian_vocab.txt` - Output: `1. Prego - You are welcome/Don't mention it  2. A dopo - See you later 3. Bounasera - Good evening 4. Arriverderci - Goodbye 5. Grazie mille - Thanks a lot (Ctrl+C to exit)` | 
 |17. Вивести кілька перших рядків із текстового файлу| `head -n 2 italian_vocab.txt` - Output: `1. Prego - You are welcome/Don't mention it 2. A dopo - See you later`|
 |18. Вивести кілька останніх рядків із текстового файлу|`tail -n 3 italian_vocab.txt` - Output: `3. Bounasera - Good evening 4. Arriverderci - Goodbye 5. Grazie mille Thanks a lot`|
+|19. переглянути вміст довгого файлу (команда less) вивчіть, як вона працює|`less italian_grammar.txt`|
+|20. вивести дату та час|`date` - Output:`Wed Jun 14 19:50:58 FLEDT 2023`|
